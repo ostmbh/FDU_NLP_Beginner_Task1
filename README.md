@@ -18,4 +18,5 @@ The data is embedding by ***Bag-of-Words*** model.
 
 One of the results is here.
 
+![Result](Task1.png)
 
